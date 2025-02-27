@@ -1,0 +1,21 @@
+// PLEASE UN COMMENT THEM AND CAHGE THE NAME TO {config.env}
+// ALL THESE DATA BELONGS TO ME. IF YOU DOWNLOADED IT TRY TO REPLACE THEM WITH YOUR OWN DATA.
+
+//////////////////////////////////
+/*
+NODE_ENV=development
+PORT=3000
+DATABASE=mongodb+srv://noor:<PASSWORD>@cluster0.9rfiz.mongodb.net/natures
+DATABASE_LOCAL=mongodb://localhost:27017/natures-test
+DATABASE_PASSWORD =24LqG8MiSIw5cnSi
+
+JWT_SECRET = my-ultra-secret-key-zero
+JWT_EXPIRES_IN = 90d
+JWT_COOKIE_EXPIRES_IN = 90
+
+EMAIL_USERNAME=""
+EMAIL_PASSWORD=""
+EMAIL_HOST=""
+EMAIL_PORT=""
+*/
+//////////////////////////////////
