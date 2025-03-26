@@ -49,3 +49,5 @@ Replace placeholders like `<YOUR_MONGO_ATLAS_USERNAME>`, `<PASSWORD>`, and `YOUR
 ---
 
 Enjoy building and exploring the **Natours Application**! 🚀
+This Project is for improving my personal Skills in backend.
+and it is developed by Noorullah Rezaie by the help of some udemy toterials.
